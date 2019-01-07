@@ -26,6 +26,7 @@ a {
 .header {
   font-family: "Lobster";
   text-align: center;
+  text-decoration: none;
 }
 
 .z {
